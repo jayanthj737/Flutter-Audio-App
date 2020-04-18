@@ -1,6 +1,6 @@
 # Flutter-Audio-App
 A new flutter app to include audio packages
-<img align=right src='https://github.com/jayanthj737/Flutter-Audio-App/blob/master/xylo.webm' height=400>
+<img align=right src='https://github.com/jayanthj737/Flutter-Audio-App/blob/master/xylo.gif' height=400>
 
 ## Why Flutter?
 
